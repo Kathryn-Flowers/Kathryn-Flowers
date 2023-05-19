@@ -3,7 +3,7 @@
 - 🦇 Animal lover, especially things with wings
 - 👻 I’m relatively new to coding, please don't be scared away
 - 📊 Passionate about QAQC
-- 📧 Let's chat! katie.flowers.90@gmail.com
+- 📧 Let's chat! kflowers@mote.org
 
 <!---
 Kathryn-Flowers/Kathryn-Flowers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
